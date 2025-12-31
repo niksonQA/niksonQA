@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Обо мне:
 
-Я тестировщик. Основной домен - тестирование веб-приложений (front + back). 
+Я тестировщик (more info...). Основной домен - тестирование веб-приложений (front + back). 
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrus8au/) [![Mail Badge](https://avatars.mds.yandex.net/i?id=7d1de1d54163f621146ac9e0e80cb6c1_l-6950445-images-thumbs&n=13)](mailto:shchoko@mail.ru)
 
