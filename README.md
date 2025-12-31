@@ -6,7 +6,7 @@
 
 Я тестировщик (more info...). Основной домен - тестирование веб-приложений (front + back). 
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrus8au/) [![Mail Badge](https://avatars.mds.yandex.net/i?id=7d1de1d54163f621146ac9e0e80cb6c1_l-6950445-images-thumbs&n=13)](mailto:shchoko@mail.ru)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrus8au/) [![Mail Badge](https://i.pinimg.com/originals/6e/9b/83/6e9b8330b1ab9262d058de3f30885776.jpg)](mailto:shchoko@mail.ru)
 
 ---
 ### 🤝 Социальные сети:
@@ -37,7 +37,7 @@
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://images.icon-icons.com/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
@@ -57,7 +57,7 @@
 ### 💾 Работа с данными:
 
 <div>
-  <img src="https://icon2.cleanpng.com/20180810/xa/kisspng-postgresql-relational-database-management-system-m-matt-harris-5b6e14bc985b43.4290064215339409246241.jpg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
+  <img src="https://static.tildacdn.com/tild3865-6464-4165-b465-646332336332/noroot.png" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://avatars.mds.yandex.net/i?id=382b43198b663d94d9f634f191a56bd7db9034c2-3928628-images-thumbs&n=13" title="dbeaver" alt="dbeaver " width="40" height="40"/>&nbsp
 </div>
