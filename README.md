@@ -1,10 +1,9 @@
 ![Header](https://github.com/niksonQA/niksonQA/blob/main/assets/KWXbfSMTDdQjIErVN8vM%D1%86UN-%D1%86wTE0-1920.jpg)
-### I'm beginner QA-Engineer 
 ---
 
 ### 👨‍💻 Обо мне:
 
-Я тестировщик (more info...). Основной домен - тестирование веб-приложений (front + back). 
+Я начинающий QA-Enginner(more info...). Основной домен - тестирование веб-приложений (front + back). 
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@niksonqa-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/niksonqa/) 
 
