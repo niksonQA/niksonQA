@@ -1,5 +1,5 @@
 ![Header](https://github.com/niksonQA/niksonQA/blob/main/assets/KWXbfSMTDdQjIErVN8vM%D1%86UN-%D1%86wTE0-1920.jpg)
-
+### I'm beginner QA-Engineer 
 ---
 
 ### 👨‍💻 Обо мне:
