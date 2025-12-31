@@ -6,7 +6,7 @@
 
 Я тестировщик (more info...). Основной домен - тестирование веб-приложений (front + back). 
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrus8au/) 
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/niksonqa/) 
 
 ---
 ### 🤝 Социальные сети:
