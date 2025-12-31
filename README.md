@@ -6,7 +6,7 @@
 
 Я тестировщик (more info...). Основной домен - тестирование веб-приложений (front + back). 
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrus8au/) [![Mail Badge](https://i.pinimg.com/originals/6e/9b/83/6e9b8330b1ab9262d058de3f30885776.jpg)](mailto:shchoko@mail.ru)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrus8au/) 
 
 ---
 ### 🤝 Социальные сети:
