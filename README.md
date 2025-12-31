@@ -1,4 +1,3 @@
-# Привет, меня зовут Никита!
 ![Header](https://github.com/niksonQA/niksonQA/blob/main/assets/KWXbfSMTDdQjIErVN8vMUN-wTE0-1920.jpg)
 
 ---
