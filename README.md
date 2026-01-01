@@ -73,9 +73,6 @@
 
 ---
 
-
-![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-
 </div>
 
 ---
