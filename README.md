@@ -3,7 +3,7 @@
 
 ### 👨‍💻 Обо мне:
 
-Я начинающий QA-Enginner (more info...). Основной домен - тестирование веб-приложений (front + back). 
+Я начинающий Automation QA Engineer.
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@niksonqa-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/niksonqa/) 
 
